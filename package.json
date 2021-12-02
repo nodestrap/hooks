@@ -1,0 +1,31 @@
+{
+  "name": "@nodestrap/hooks",
+  "version": "4.0.0",
+  "description": "A set of React helper hooks.",
+  "type": "module",
+  "main": "dist/hooks.js",
+  "types": "dist/hooks.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodestrap/hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "helpers"
+  ],
+  "author": "heymarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodestrap/hooks/issues"
+  },
+  "homepage": "https://github.com/nodestrap/hooks#readme",
+  "dependencies": {
+    "@types/react": "^17.0.37",
+    "is-in-browser": "^2.0.0",
+    "react": "^17.0.2"
+  }
+}
