@@ -1,6 +1,6 @@
 {
   "name": "@nodestrap/hooks",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A set of React helper hooks.",
   "type": "module",
   "main": "dist/hooks.js",
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nodestrap/hooks#readme",
   "dependencies": {
-    "@types/react": "^17.0.38",
+    "@types/react": "^17.0.43",
     "is-in-browser": "^2.0.0",
     "react": "^17.0.2"
   }
